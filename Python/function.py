@@ -27,3 +27,19 @@ def  hello():
     return "Hello"
 greetings= hello()
 print(greetings)
+
+
+# input , return
+
+def add_number(a,b): # arguments
+    return a+b
+
+result= add_number(23,5)
+print(result)
+
+# NO input , return
+
+def hello():
+    return "Hi"
+say= hello()
+print(say)
