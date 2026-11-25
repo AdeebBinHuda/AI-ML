@@ -1,11 +1,10 @@
-
-
+# anonymous function umnamed
 
 def squart(x):
     return x*x
 print(squart(5))
 
-
+# lambda arguments: expression 
 # labda_function = lambda x: x*x
 # example usage
 squart= lambda x: x*x
